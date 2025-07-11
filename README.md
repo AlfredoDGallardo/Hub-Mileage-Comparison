@@ -41,7 +41,8 @@ This report tracks the expansion of clinical hubs from January 2024 to January 2
 ## 📁 Files
 - <a href="https://github.com/AlfredoDGallardo/Hub-Mileage-Comparison/blob/main/Anonymize_Sample_2024-2025%20Hub%20Comparison.xlsx">Excel File</a> – Data for Dashboard
 - Dashboard and Report Screenshot:
-  - 
+  - <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5c1b9911-70ba-4b4a-a91a-f59ffb8dc5b3" />
+
 
 
 ---
